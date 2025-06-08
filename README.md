@@ -1,2 +1,4 @@
 # Data_Science_Library
-I'll create a basic Python script for a Colab notebook that includes common data science library imports.
+
+This Colab notebook template imports commonly used libraries, sets up a dummy dataset, performs some basic exploratory data analysis and visualization, and includes a simple machine learning example.
+
